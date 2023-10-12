@@ -8,7 +8,7 @@ function App() {
       <Confetti width={window.innerWidth} height={window.innerHeight} recycle className="rain" />
       <h1>Welcome to my birthday party fiesta</h1>
       <div className="image_container"><img src="./assets/img/teemo 2vuotias.jpg" alt="Teemo Tebest" /></div>
-      <h3>When: 13–16 October</h3>
+      <h3>When: 12–16 October 2023</h3>
       <h3>Where: Various locations</h3>
       <h3>What: Many things</h3>
       <div className="image_container"><img src="./assets/img/IMG_1260.jpeg" alt="" /></div>
